@@ -9,7 +9,7 @@ export class ProductAlertsComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
